@@ -19,13 +19,3 @@ end=>end: Return message
 request->op3->end
 ```
 
-
-
-```
-
-```
-
-
-
-
-
